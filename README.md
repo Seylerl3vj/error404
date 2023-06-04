@@ -1,2 +1,2 @@
 # error404
-plantilla con código de página animada de error 404
+Esta es una plantilla animada con un astronauta perdido en el espacio sobre el error 404 de página no encontrada, con links de contacto y regresar al inicio.
